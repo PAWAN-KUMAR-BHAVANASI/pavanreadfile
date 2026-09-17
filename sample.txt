@@ -1,0 +1,2 @@
+This file was read from the configured path.
+It is displayed in the browser via ASP.NET Core.
